@@ -9,6 +9,7 @@ jupyter = "*"
 pandas = "*"
 sqlalchemy = "*"
 psycopg2-binary = "*"
+fastparquet = "*"
 
 [dev-packages]
 
