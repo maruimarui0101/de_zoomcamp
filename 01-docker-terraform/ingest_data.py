@@ -20,7 +20,7 @@ def main(params):
     parquet_name='output.parquet'
     csv_name='output.csv'
 
-    os.system(f"wget {url} -O {csv_name}")
+    os.system(f"wget {url} -O {parquet_name}")
 
 
     engine = create_engine(f'postgresql://{user}:{password}@{host}:{port}/{db}')
