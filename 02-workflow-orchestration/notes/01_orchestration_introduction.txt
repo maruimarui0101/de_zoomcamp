@@ -1,0 +1,21 @@
+what is orchestration
+- large part of DE is E, T, L between sources
+- orchestration -> dependency management facilitated via automation 
+- orchestrator manages scheduling, triggering, monitoring and resource alloctaion
+- every workflow reqs sequential steps 
+
+
+What a good orchestrator is?
+- handles workflow management 
+- automation
+- error handling and recovery
+- monitoring, alerting
+- resource optimisation 
+- observabiility
+- debugging
+- compliance/auditing
+
+a good orchestrator prioritises...the developer experience
+- flow state
+- feedback loops
+- cognitive load
