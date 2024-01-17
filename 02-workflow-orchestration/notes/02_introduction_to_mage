@@ -1,0 +1,20 @@
+MAGE - open-source pipeline tool for orchestrating, transforming and integrating data
+accelerating pipeline development 
+- HYBRID development
+    - GUI for interactive development 
+    - blocks - testable, reusable pieces of code
+- Improved DevEx (Developer Experience)
+    - Code and test in parallel
+    - reduce dependencies, switch tools less, be efficient
+
+Built-in engineering best-practices
+- inline testing/debugging
+- fully featured observability 
+- DRY principles (Don't Repeat Yourself)
+
+Reduction in undifferentiated work (e.g. setup, config)
+
+Main components of MAGE
+- Projects
+- Pipelines
+- Blocks
