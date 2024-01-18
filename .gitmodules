@@ -1,0 +1,3 @@
+[submodule "02-workflow-orchestration/mage_env"]
+	path = 02-workflow-orchestration/mage_env
+	url = https://github.com/mage-ai/mage-zoomcamp.git
